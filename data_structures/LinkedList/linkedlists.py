@@ -1,5 +1,5 @@
 """
-Linked Lists
+Singly Linked Lists
 
 every linked list consists of nodes. 
 Every node has two components:
@@ -75,4 +75,8 @@ def append(self, data):
 """
 Here we have a new defined new_node using the Node class defined early. It has data and next fields. 
 
-the if statement checks if the linked list is empty, if so new_node is now the head of the list."""
+the if statement checks if the linked list is empty, if so new_node is now the head of the list.
+
+One line 70, we define last_node equal to head. Meaning we will be starting at the start of the linked list. 
+
+"""
