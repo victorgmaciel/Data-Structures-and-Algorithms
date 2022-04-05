@@ -18,6 +18,6 @@ If you want to proritize search operations, hash table is probably the way to go
 2. O(1) constant time so they scale well in algos
 
 Python has several built in types of hashing which is: 
-*set* and *dict*
+`set` and `dict`
 
 
