@@ -20,4 +20,12 @@ If you want to proritize search operations, hash table is probably the way to go
 Python has several built in types of hashing which is: 
 `set` and `dict`
 
+The performance of a hash table depends on three fundamental factors:
+1. Size of the hash table
+2. the hash function
+3. Collision handling
+
+
+
+
 
